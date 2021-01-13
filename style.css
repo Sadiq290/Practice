@@ -1,0 +1,38 @@
+.back{
+    background-color: #fceae8;
+    border-radius:2%;
+}
+.back-c{
+    background-color:#ff136f;
+    border: 0;
+    width:120px;
+    border-radius:8%;
+    height:40px;
+}
+.background{
+    background-color: ;
+}
+.size{
+    padding:10px;
+    padding-left:50px;
+    border-radius:10px;
+    border: 0;
+}
+.mode{
+    padding-right:30px;
+}
+.footer{
+    border: 0ch;
+    background-color: white;
+    border-radius:2%;
+}
+.panda{
+    border-radius:2%;
+}
+.border{
+    border:5px solid white;
+}
+.coli{
+    background-color: #fceae8;
+    border-radius:2%;
+}
